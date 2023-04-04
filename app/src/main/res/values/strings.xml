@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PDFRead</string>
+    <string name="open_pdf_button_text">Открыть pdf</string>
+</resources>
